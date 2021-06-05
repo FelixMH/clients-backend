@@ -20,7 +20,7 @@ target/
 *.ipr
 
 ### data pass
-/spring-boot-backend-apirest/src/main/resources/**
+./src/main/resources/**
 
 ### NetBeans ###
 /nbproject/private/
